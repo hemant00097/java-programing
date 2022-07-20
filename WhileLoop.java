@@ -1,5 +1,9 @@
 import java.util.Scanner;
+<<<<<<< HEAD:WhileLoop.java
 public class WhileLoop
+=======
+public class while 
+>>>>>>> 97aca76e5cd34a11c14dcbd10fbff033b21b8edf:whil.java
 {
     public static void main(String[] args)
     {
