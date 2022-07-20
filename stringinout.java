@@ -1,6 +1,6 @@
  
 import java.util.Scanner;
-class stringinout {
+class StringInOut {
     public static void main(String [] args)
     {
         String a;

@@ -17,7 +17,7 @@ class Perfect {
             System.out.println(" perfect number ");
         }
         else{
-            System.out.println("not perfect number ");
+            System.out.println("Not perfect number ");
         }
     }
 }

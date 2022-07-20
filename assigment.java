@@ -1,12 +1,14 @@
-public class assigment {
-    public static void main(String[] args){
+class AssignMent
+{
+   public static void main(String[] args)
+    {
 
         int a;
         a=10;  //simple
         System.out.println(a);
-        a+=10;          //compund (a=a+10)
+        a+=10;          //compound (a=a+10)
         System.out.println(a);
-        a-=10;         //compund (a=a-10)
+        a-=10;         //compound (a=a-10)
         System.out.println(a);
     }
     

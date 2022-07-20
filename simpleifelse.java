@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class simpleifelse{
+class SimpleIfElse
+{
     public static void main(String[] args) {
         int age;
         System.out.println("Enter the age");
@@ -8,10 +9,10 @@ class simpleifelse{
         sc.close();
         if(age>=18)
         {
-            System.out.println("Eligbal the voit");
+            System.out.println("Eligible the vote");
         }
         else{
-            System.out.println("not eligbal");
+            System.out.println("not Eligible");
         }
     }
 }

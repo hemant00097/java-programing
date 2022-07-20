@@ -1,4 +1,4 @@
-// class maximum {
+// class Maximum {
 //     public static void main(String[] args) 
 //     {
 //      int a=10,b=20;
@@ -12,11 +12,11 @@
 //     }
 // }
 import java.util.Scanner;
-class maximum {
+class Maximum {
     public static void main(String[] args) 
     {
      int a,b,c;
-     System.out.println("Enter the three Number");
+     System.out.println("Enter three Number");
      Scanner sc=new Scanner(System.in);
      a=sc.nextInt();
      b=sc.nextInt();

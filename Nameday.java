@@ -14,15 +14,15 @@ class Nameday {
             break;
             case 3: System.out.println("TUESDAY");
             break;
-            case 4: System.out.println("WEDENSDAY");
+            case 4: System.out.println("WEDNESDAY");
             break;
-            case 5: System.out.println("THRUSDAY");
+            case 5: System.out.println("THURSDAY");
             break;
             case 6: System.out.println("FRIDAY");
             break;
-            case 7: System.out.println("SATERDAY");
+            case 7: System.out.println("SATURDAY");
             break;
-            default: System.out.println("invaled number");
+            default: System.out.println("invalid number");
             break;
         }
     }

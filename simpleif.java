@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class simpleif {
+class SimpleIf {
    public static void main(String[] args)
    {
     int n;

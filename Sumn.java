@@ -1,10 +1,10 @@
 import java.util.Scanner;
-class Sumn
+class SumN
  {
  public static void main(String[] args) 
  {
     int n,sum=0;
-    System.out.println("Enter tha number");
+    System.out.println("Enter the number");
     Scanner sc=new Scanner(System.in);
     n=sc.nextInt();
     sc.close();
@@ -12,6 +12,6 @@ class Sumn
     {
        sum=sum+i;
     }
-    System.out.println("Addisem "+sum);
+    System.out.println("Addition "+sum);
  }
 }

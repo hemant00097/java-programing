@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class vowel 
+public class Vowel 
 {
     public static void main(String[] args) 
     {
@@ -13,7 +13,7 @@ public class vowel
             System.out.println("vowel");
         }
         else{
-            System.out.println("concdent");
+            System.out.println("consonant");
         }
 
     }

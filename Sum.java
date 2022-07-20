@@ -10,7 +10,7 @@ class Sum
         b=sc.nextInt();
         sc.close();
         sum= a+b;
-        System.out.println("addisen "+sum);
+        System.out.println("addition "+sum);
     }
     
 }

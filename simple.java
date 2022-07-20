@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class simpal {
+class Simple {
     public static void main(String[] args) {
         int a;
         System.out.println("Enter the Number");
@@ -8,10 +8,10 @@ class simpal {
         sc.close();
         if(a>=24)
         {
-            System.out.println("conform seet");
+            System.out.println("confirm seat");
         }
     
-        System.out.println("thanks you");
+        System.out.println("thank you");
     }
 
     

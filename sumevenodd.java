@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sumevenodd 
+class SumEvenOdd
 {
     public static void main(String[] args) 
     {
@@ -23,7 +23,7 @@ class sumevenodd
                 sum=sum+i;
             }
 
-            System.out.println("sum if odd number " + sum);
+            System.out.println("sum of odd number " + sum);
         }
     }
     

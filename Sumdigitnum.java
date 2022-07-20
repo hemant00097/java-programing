@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Sumdigitnum {
+class SumDigitNum {
    public static void main(String[] args) {
      int n , r,sum=0;
      System.out.println("Enter  the  number ");

@@ -1,10 +1,10 @@
 
 import java.util.Scanner;
-class Primetwonum {
+class PrimeTwoNum {
     public static void main(String [] args)
     {
         int n1,n2,j,i;
-        System.out.println("Enter the two number");
+        System.out.println("Enter two number");
         Scanner sc= new Scanner(System.in);
         n1=sc.nextInt();
         n2=sc.nextInt();

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class primenum {
+class PrimeNum {
     public static void main(String[] args) {
         int num,count=0;
         System.out.println("Enter the number ");

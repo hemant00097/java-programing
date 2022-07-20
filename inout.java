@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class inout {
+class Inout {
     public static void main(String [] args)
     {
         int a;
@@ -7,7 +7,7 @@ class inout {
         Scanner sc=new Scanner(System.in);
         a= sc.nextInt();
         sc.close();
-        System.out.println("Get the data " +a);
+        System.out.println("Set the data " +a);
     
     }
 

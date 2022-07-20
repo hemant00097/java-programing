@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class posineganum {
+class PosiNegaNum {
     public static void main(String[] args) {
         int n;
         System.out.println("Enter the number");
@@ -13,7 +13,7 @@ class posineganum {
             System.out.println("-ve number");
         }
      else{
-        System.out.println(" Neithing  +ve and -ve number");
+        System.out.println(" Neither  +ve or -ve number");
      }
     }
 }
